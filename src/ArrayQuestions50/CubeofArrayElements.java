@@ -16,7 +16,6 @@ public class CubeofArrayElements {
             for(int j=0;j<arr1.length;j++){
                 arr1[j]=arr[j]*arr[j]*arr[j];
             }
-
         for(int i=0;i<arr1.length;i++){
         System.out.print(arr1[i]+" ");
         }
