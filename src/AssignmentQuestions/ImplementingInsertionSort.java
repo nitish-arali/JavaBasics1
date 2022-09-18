@@ -1,7 +1,6 @@
 package AssignmentQuestions;
 
 import java.util.*;
-import java.io.*;
 
 public class ImplementingInsertionSort {
     public static void main(String[] args) {
