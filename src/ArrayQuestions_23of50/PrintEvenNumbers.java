@@ -1,6 +1,5 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 import java.util.*;
-import java.io.*;
 
 public class PrintEvenNumbers {
     public static void main(String[] args) {

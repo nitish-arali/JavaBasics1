@@ -1,4 +1,4 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 
 public class RemoveDuplicateElements {
     public static int removeDuplicateElements(int arr[], int n){

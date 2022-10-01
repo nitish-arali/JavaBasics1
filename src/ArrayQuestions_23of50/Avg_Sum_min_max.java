@@ -1,6 +1,5 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 import java.util.*;
-import java.io.*;
 
 public class Avg_Sum_min_max {
     public static void main(String[] args) {

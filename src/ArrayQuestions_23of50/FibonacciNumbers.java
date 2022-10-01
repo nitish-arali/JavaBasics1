@@ -1,4 +1,4 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 
 import java.util.Scanner;
 
@@ -14,9 +14,8 @@ public class FibonacciNumbers {
             arr[i]=fib+arr[i-1];
             fib=arr[i-1];
         }
-        for(int i=0;i<arr.length;i++){
+        for(int i=0;i<arr.length;i++)
             System.out.print(arr[i]+" ");
-        }
 
     }
 }

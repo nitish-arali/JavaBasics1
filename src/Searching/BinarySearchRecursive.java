@@ -7,9 +7,9 @@ public class BinarySearchRecursive {
             if (arr[mid] == key) {
                 return mid;
             } else if (arr[mid] > key) {
-                return bsr(arr, low, mid + 1, key);
+                return bsr(arr, low, mid - 1, key);
             } else {
-                return bsr(arr, mid - 1, high, key);
+                return bsr(arr, mid + 1, high, key);
             }
         } else
             return -1;

@@ -1,4 +1,4 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 
 public class LinearSearch {
     public static int Ls(int[] arr, int key) {

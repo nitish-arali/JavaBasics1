@@ -1,4 +1,4 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 
 public class FrequencyOfEachElement {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class FrequencyOfEachElement {
             }
         }
         System.out.println("Frequency");
-        ;
+
         for (int i = 0; i < fr.length; i++) {
             if(fr[i] != visited)
                 System.out.println(arr[i]+" || "+fr[i]);

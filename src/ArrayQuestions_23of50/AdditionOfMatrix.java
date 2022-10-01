@@ -1,6 +1,5 @@
-package ArrayQuestions50;
+package ArrayQuestions_23of50;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class AdditionOfMatrix {
