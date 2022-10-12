@@ -14,7 +14,7 @@ public class CheckTwoStringsAreAnagrams {
                     }
                 }
             }
-            if(count==str1.length() && count==str2.length()){
+            if(count==str1.length()){
                 return true;
             }
         }
@@ -23,7 +23,7 @@ public class CheckTwoStringsAreAnagrams {
     public static void main(String[] args) {
         String str1="abcd";
         String str2="bacd";
-        if(CheckAnagram(str1,str2)==true){
+        if(CheckAnagram(str1,str2)){
             System.out.println("The given strings are Anagrams");
         }
         else System.out.println("The given strings are not Anagrams");
