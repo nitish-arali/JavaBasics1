@@ -58,10 +58,7 @@ public class NQueens {
         return true;
     }
     public static void main(String[] args) {
-        int[][] m = {{1, 0, 0, 0},
-                {1, 1, 0, 1},
-                {1, 1, 0, 0},
-                {0, 1, 1, 1}};
+
         System.out.println(nQueen(4));
 
     }
